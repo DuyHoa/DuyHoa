@@ -6,7 +6,7 @@
 <ul>
 <li>🔭 I’m currently working on <a href="https://www.merkleinc.com/">Merkle</a>.</li>
 <li>🧐 Learning about <strong>Computer Science</strong> at Thang Long University</li>
-<li>💬 Ping me about <strong>Magento, Laravel, Workpress</strong>.</li>
+<li>💬 Ping me about <strong>Web developer!</strong>.</li>
 <li>🎉 Fun Fact: 。</li>
 </ul>
 
