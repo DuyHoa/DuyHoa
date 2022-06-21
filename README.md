@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="live:ndh.duyhoa.97">
-    <img src="https://img.icons8.com/color/96/undefined/skype--v1.png"/>
+    <img src="https://img.icons8.com/color/96/undefined/skype--v1.png" titl alt="skype" width="48" height="48"/>
    </a>
 </p>
 
