@@ -52,6 +52,7 @@
 <h3>🚜 Platform</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/96/undefined/magento.png" alt="magent" width="48" height="48"/> 
-  <img src="https://img.icons8.com/fluency/48/undefined/laravel.png" alt="micro-mysql" width="48" height="48"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/laravel.png" alt="laravel" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png"  alt="wordpress" width="48" height="48"/>
 </p>
 
