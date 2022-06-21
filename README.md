@@ -53,19 +53,5 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/undefined/magento.png" alt="magent" width="48" height="48"/> 
   <img src="https://img.icons8.com/fluency/48/undefined/laravel.png" alt="micro-mysql" width="48" height="48"/>
-  
-</p>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-web-development-flaticons-lineal-color-flat-icons.png" alt="css" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-html-web-development-flaticons-lineal-color-flat-icons.png" alt="html" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-php-web-development-flaticons-lineal-color-flat-icons.png" alt="php" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
